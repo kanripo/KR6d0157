@@ -1,0 +1,6 @@
+001-0703a00	T 001-0703a	buddhist/T-taisho/T46/07/T46-0703.png
+001-0703b00	T 001-0703b	buddhist/T-taisho/T46/07/T46-0703.png
+001-0703c00	T 001-0703c	buddhist/T-taisho/T46/07/T46-0703.png
+001-0704a00	T 001-0704a	buddhist/T-taisho/T46/07/T46-0704.png
+001-0704b00	T 001-0704b	buddhist/T-taisho/T46/07/T46-0704.png
+001-0704c00	T 001-0704c	buddhist/T-taisho/T46/07/T46-0704.png
