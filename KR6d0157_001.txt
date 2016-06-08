@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:06.132612
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:48
 #+TITLE: 十不二門
 #+PROPERTY: CBETA_ID T46n1927
 #+PROPERTY: ID KR6d0157
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1927
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0157_T_000-0702c>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0157_T_001-0702c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1927[cf.No.1928]¶
-
- 十不二門¶
+No. 1927 [cf. No. 1928]¶
+十不二門¶
 ¶
 唐荊溪尊者湛然述¶
 
