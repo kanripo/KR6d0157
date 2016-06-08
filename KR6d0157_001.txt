@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:06.132612
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:48
 #+TITLE: 十不二門
 #+PROPERTY: CBETA_ID T46n1927
 #+PROPERTY: ID KR6d0157
